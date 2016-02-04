@@ -1,0 +1,25 @@
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+[class*=&quot;entypo-&quot;]:before {font-family: &#39;entypo&#39;, sans-serif;}
+*{ box-sizing: border-box; }
+a { text-decoration: none; transition: all .4s; }
+.container { margin: 0 auto; }
+.container:hover .author-body { height: 70px; }
+.author-body a {color:#fff}
+.author2 { overflow: auto; padding: 20px; background: #fff; border-radius: 5px 5px 0 0; font-size:12px; color: #b9becd; }
+.author2:before { content: &quot;&quot;; display: block; float: left; width: 80px; height: 80px; margin-right: 20px; background: url(&quot;http://i.imgur.com/rppvYgh.jpg&quot;) no-repeat; background-size: 80px; border-radius: 100%; }
+.author2  h1 { margin: 15px 0 5px; font-weight: 100; font-size:20px; color: #5e6d81; }
+.author-body { height: 0; background: #323a45; color: #fff; vertical-align: middle; transition: all .3s; }
+.author-body a { display: inline-block; width: 25%; height: 100%; padding: 20px; border-right: 1px solid rgba(255,255,255,.25); text-align: center; color: #fff; font-size: 2.5em}
+.author-body a:hover { background: #515761; }
+.author-body a:last-child { border-right: none; }
+.foot { /*height: 100px;*/ }
+[class^=&quot;footItem&quot;] { display: inline-block; width: 33.333333%; padding: 15px 0; text-align: center; color: rgba(255,255,255,.8); font-size: 1.1em; }
+[class^=&quot;footItem&quot;] span { display: block; font-size: 1.6em; margin-bottom: 5px; color: #fff; }
+.footItem1 { background: #14b9d6;    color: white!important;}
+.footItem1:hover { background: #5bcee2; }
+.footItem2 { background: #f27935;    color: white!important; }
+.footItem2:hover { background: #f6a172; }
+.footItem3 { background: #1fbba6;     color: white!important;}
+.footItem3:hover { background: #63d0c1; }
+.widget-content {    box-shadow: 0 0 0 1px #D3D3D3;}
+.section:first-child .widget:first-child {margin-bottom:15px}
