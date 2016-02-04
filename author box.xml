@@ -1,0 +1,12 @@
+<div class="container">
+<div class="author2">
+        <h1>Benzir A Shawon</h1>
+        The Author
+    </div>
+    <div class="author-body">
+      <a href="#Twitter-LINK"><span class="entypo-twitter"></span></a><a href="#Facebook-LINK"><span class="entypo-facebook"></span></a><a href="#Dribble-LINK"><span class="entypo-dribbble"></span></a><a href="#GooglePlus-LINK><span class="entypo-gplus"></span></a>
+    </div>
+  <div class="foot">
+    <a href="#" class="footItem1"><span class="entypo-heart"></span>102</a><a href="#" class="footItem2"><span class="entypo-user"></span>4,587</a><a href="#" class="footItem3"><span class="entypo-plus"></span>84,023</a>
+  </div>
+</div>
